@@ -9,7 +9,7 @@
 ## 如何使用
 1. 在terminal中clone此專案：
 ```
-git clone https://github.com/Yuanuanuan/password_generator.git
+git clone https://github.com/Tommy0901/pwd-generator.git
 ```
 3. 在terminal中移動到此檔案後輸入：
 ```
